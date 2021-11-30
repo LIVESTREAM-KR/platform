@@ -1,4 +1,4 @@
-# Platform
+# Online Concert Platform
 
 ## [MyMusicTaste](https://github.com/LIVESTREAM-KR/mymusictaste)
 https://livestream-kr.github.io/mymusictaste/all.xml
