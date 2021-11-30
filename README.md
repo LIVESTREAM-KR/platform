@@ -9,11 +9,11 @@ https://livestream-kr.github.io/mymusictaste/all.xml
 
 ## [bbangya](https://github.com/LIVESTREAM-KR/bbangya)
 https://livestream-kr.github.io/bbangya/all.xml
-- MAIN: https://livestream-kr.github.io/bbangya/main.xml
+- [MAIN](https://www.bbangyatv.com/main): https://livestream-kr.github.io/bbangya/main.xml
 
 ## [DANCHU](https://github.com/LIVESTREAM-KR/danchu)
 https://livestream-kr.github.io/danchu/all.xml
-- 티켓오픈소식: https://livestream-kr.github.io/danchu/ticket_open.xml
-- 티켓오픈소식 하이라이트: https://livestream-kr.github.io/danchu/ticket_open_top.xml
+- [티켓오픈소식](https://danchu.tv/ticket_open): https://livestream-kr.github.io/danchu/ticket_open.xml
+- [티켓오픈소식 하이라이트](https://danchu.tv/ticket_open): https://livestream-kr.github.io/danchu/ticket_open_top.xml
 
 ## Artists'Card
