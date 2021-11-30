@@ -20,6 +20,17 @@ imageSelector = "div.xe-list-webzine-board-list-item__img"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[danchu_top]
+title = "단추tv"
+url = "https://danchu.tv/ticket_open"
+entrySelector = "div[class='swiper-wrapper xf-main-slide'] a[class^='swiper-slide main-slide-link']"
+titleSelector = "h3.xf-slide-title"
+linkSelector = "a[class^='swiper-slide main-slide-link']"
+contentSelector = "p.xf-slide-date"
+imageSelector = "div.main-slide-img"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [mymusictaste]
 title = "MyMusicTaste ─ Live"
 url = "https://www.mymusictaste.com/live/"
@@ -29,3 +40,14 @@ linkSelector = "*"
 contentSelector = "p.sc-1sxlxw0-5.ffZpFc"
 imageSelector = "div.sc-1b180qo-0.ikRoLt img"
 waitUntil = "networkidle"
+
+[artistscard]
+title = "Artists'Card"
+url = "https://artistscard.com/ko/ticket"
+entrySelector = "div[class='sc-1cyq3hq-3 jzKJLm'] div[class='sc-1e3tjec-0 gbEYpG']"
+titleSelector = "div[class='sc-1e3tjec-5 sc-1e3tjec-7 bcogIH jxILRF']"
+linkSelector = "*"
+contentSelector = "div[class='sc-1e3tjec-5 sc-1e3tjec-8 bcogIH fEyMUm']"
+waitUntil = "networkidle"
+onFail = "stale"
+
