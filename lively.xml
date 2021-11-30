@@ -1,477 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Combined feed</title>
+        <title>Lively</title>
         <link>undefined</link>
         <description>undefined</description>
         <lastBuildDate>Tue, 30 Nov 2021 13:37:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Merry Ars-mas! YOUNGJAE Special FAN CON (빵야 TV ─ 라이브 일정)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:36:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p data-v-5e133498="" class="mb-0 font-weight-bold caption"> YOUNGJAE Official </p><p data-v-5e133498="" class="mb-0 caption"> 2021.12.24 7:00 pm (KST) </p>]]></content:encoded>
-            <enclosure url="https://static.bbangyatv.com/static/thumbnail/thumb_youngjae_211224.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 정성하, Winter Limited Concert - 1,2부 티켓오픈 안내 (단추tv)]]></title>
-            <link>https://danchu.tv/ticket_open/show/d52ebb7c-8630-41ee-867f-1163520c0d15</link>
-            <guid>https://danchu.tv/ticket_open/show/d52ebb7c-8630-41ee-867f-1163520c0d15</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 25 (목) 18:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/86/89/spill_800x800_2575098339ac7a32e404087130ae4d6ffc2b48c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손승연 YOLO-OAH(욜로와) TALK SHOW 티켓오픈 안내 (단추tv)]]></title>
-            <link>https://danchu.tv/ticket_open/show/05277169-0f7f-4f4b-9dce-71ab0b12d10e</link>
-            <guid>https://danchu.tv/ticket_open/show/05277169-0f7f-4f4b-9dce-71ab0b12d10e</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 18 (목) 12:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/23/ac/spill_800x800_a0287d654543e65ccd39522d095fb7a421c7104b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2021, Autumn Fanmeeting with 리누 티켓오픈 안내 (단추tv)]]></title>
-            <link>https://danchu.tv/ticket_open/show/e37c0179-0588-4e97-9fd7-fb9b580eb657</link>
-            <guid>https://danchu.tv/ticket_open/show/e37c0179-0588-4e97-9fd7-fb9b580eb657</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 15 (월) 18:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/03/79/spill_800x800_58524df59084e4b8e0435431f21c67f5fca95465.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FOREST 2021 Halloween] WH3N 단독콘서트 티켓오픈 안내 (단추tv)]]></title>
-            <link>https://danchu.tv/ticket_open/show/e2699eef-c955-4ef2-abc8-b5d9692bf4a4</link>
-            <guid>https://danchu.tv/ticket_open/show/e2699eef-c955-4ef2-abc8-b5d9692bf4a4</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 10. 18 (월) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[망명열차 티켓오픈 안내 (단추tv)]]></title>
-            <link>https://danchu.tv/ticket_open/show/1d043d0a-d966-4492-bafb-4ff992b0c4cb</link>
-            <guid>https://danchu.tv/ticket_open/show/1d043d0a-d966-4492-bafb-4ff992b0c4cb</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 10. 14 (목) 18:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/fd/55/spill_800x800_7baa63ed4beb5778323c9b1e516601e7d62e4138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손승연 YOLO-OAH 온라인 콘서트 티켓오픈 안내 (단추tv)]]></title>
-            <link>https://danchu.tv/ticket_open/show/5984a38d-9c4a-4fe4-be07-e63b1ecada89</link>
-            <guid>https://danchu.tv/ticket_open/show/5984a38d-9c4a-4fe4-be07-e63b1ecada89</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 10. 13 (수) 10:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/f4/28/spill_800x800_cd49cc6eb3fad658c366e73de7ff746454f21606.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디에이드의 첫 토크콘서트 티켓오픈 안내 (단추tv)]]></title>
-            <link>https://danchu.tv/ticket_open/show/bb195754-e095-4514-88a3-34b0afc95bfe</link>
-            <guid>https://danchu.tv/ticket_open/show/bb195754-e095-4514-88a3-34b0afc95bfe</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 10. 5 (화) 18:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/c2/f6/spill_800x800_b002a541b2fe7049db5bb81368eb7b14ba002ce1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 윤딴딴의 포스트 인 티켓오픈 안내 (단추tv)]]></title>
-            <link>https://danchu.tv/ticket_open/show/5da3a4aa-e40d-40c7-aebb-f9651c0a47c0</link>
-            <guid>https://danchu.tv/ticket_open/show/5da3a4aa-e40d-40c7-aebb-f9651c0a47c0</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 9. 17 (금) 17:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/3b/f3/spill_800x800_7f0734ff82f7cc13f60a707ccddc2a7dd2f07508.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브로콜리너마저와 함께라면, 당신도 K－인디 작사가! 티켓오픈 안내 (단추tv)]]></title>
-            <link>https://danchu.tv/ticket_open/show/b7cbe046-8def-490f-9a2e-688762c2a704</link>
-            <guid>https://danchu.tv/ticket_open/show/b7cbe046-8def-490f-9a2e-688762c2a704</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 9. 10 (금) 14:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/33/09/spill_800x800_2fa1e576b0bb47b1725edefcad33344b20076862.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[노들섬 2주년 기획공연 <The Wonder Weeks> 온라인 티켓오픈 안내 (단추tv)]]></title>
-            <link>https://danchu.tv/ticket_open/show/1cd80519-41ad-4e91-b0ed-b9eda083c625</link>
-            <guid>https://danchu.tv/ticket_open/show/1cd80519-41ad-4e91-b0ed-b9eda083c625</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 9. 10 (금) 15:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/ec/e7/spill_800x800_18c2f38e8cbbc08f2ef59fad0030e24f13a02f4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손승연 YOLO-OAH 온라인 콘서트 (LIVE+MD) (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.18 -
-                                                2021.10.18]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/b7/ff/spill_400x400_6a18e5982796d442571b9e696fd0257bf8d9dcd1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디에이드의 첫 토크콘서트 (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.31 -
-                                                2021.10.31]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/6e/7b/spill_400x400_6f003dd117055ba5c2b7a60fd690bb30f2412fd8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 윤딴딴의 포스트 인 - DAY 2 (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.13 -
-                                                2021.10.13]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/46/db/spill_400x400_f76ea7f24e00d1bf3d8ca224a2f8520ecff06a8b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브로콜리너마저와 함께라면, 당신도 K－인디 작사가! (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.18 -
-                                                2021.09.18]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/ab/e5/spill_400x400_68932683168c19285261c2c739b88d8a3bbe8351.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[홍크 / 검은잎들 / 9와 숫자들] The Wonder Weeks #4 (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.14 -
-                                                2021.11.14]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/89/4e/spill_400x400_886fc5ce91666ffe3f11b09ee9088938d201d63c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Museezn Concert 2021 - Reprise #2 (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.24 -
-                                                2021.09.24]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/25/2a/spill_400x400_136f5ca4cf0f20acfbac5e5476759324cff60609.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2부] 2021 정성하, Winter Limited Concert (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.18 -
-                                                2021.12.18]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/6b/d2/spill_400x400_a0956db1516f225fbbc9ebfa2e308d65d6a82a9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1부] 2021 정성하, Winter Limited Concert (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.18 -
-                                                2021.12.18]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/6b/d2/spill_400x400_a0956db1516f225fbbc9ebfa2e308d65d6a82a9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손승연 YOLO-OAH(욜로와) TALK SHOW (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18 -
-                                                2021.11.18]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/98/1f/spill_400x400_af8efbd48e82c91c56f3e3eaece27086b8e5dec1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2021, Autumn Fanmeeting with 리누 (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.27 -
-                                                2021.11.27]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/92/6f/spill_400x400_1d3715db7567ac1e58e0e292f22c8383e5a23beb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[FOREST 2021 Halloween] WH3N 단독콘서트 (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.31 -
-                                                2021.10.31]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/68/d4/spill_400x400_73f51939fb185d32b70de43b77218d1f50b891d2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[망명열차 (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.28 -
-                                                2021.10.28]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/56/a3/spill_400x400_59afb4545ec2163a902711c07cc6cd17e9752040.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손승연 YOLO-OAH 온라인 콘서트 (LIVE+MD) (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.18 -
-                                                2021.10.18]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/b7/ff/spill_400x400_6a18e5982796d442571b9e696fd0257bf8d9dcd1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디에이드의 첫 토크콘서트 (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.31 -
-                                                2021.10.31]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/6e/7b/spill_400x400_6f003dd117055ba5c2b7a60fd690bb30f2412fd8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 윤딴딴의 포스트 인 - DAY 2 (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.13 -
-                                                2021.10.13]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/46/db/spill_400x400_f76ea7f24e00d1bf3d8ca224a2f8520ecff06a8b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브로콜리너마저와 함께라면, 당신도 K－인디 작사가! (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.18 -
-                                                2021.09.18]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/ab/e5/spill_400x400_68932683168c19285261c2c739b88d8a3bbe8351.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[홍크 / 검은잎들 / 9와 숫자들] The Wonder Weeks #4 (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.14 -
-                                                2021.11.14]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/89/4e/spill_400x400_886fc5ce91666ffe3f11b09ee9088938d201d63c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Museezn Concert 2021 - Reprise #2 (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.24 -
-                                                2021.09.24]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/25/2a/spill_400x400_136f5ca4cf0f20acfbac5e5476759324cff60609.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2부] 2021 정성하, Winter Limited Concert (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.18 -
-                                                2021.12.18]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/6b/d2/spill_400x400_a0956db1516f225fbbc9ebfa2e308d65d6a82a9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1부] 2021 정성하, Winter Limited Concert (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.18 -
-                                                2021.12.18]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/6b/d2/spill_400x400_a0956db1516f225fbbc9ebfa2e308d65d6a82a9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손승연 YOLO-OAH(욜로와) TALK SHOW (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18 -
-                                                2021.11.18]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/98/1f/spill_400x400_af8efbd48e82c91c56f3e3eaece27086b8e5dec1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2021, Autumn Fanmeeting with 리누 (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.27 -
-                                                2021.11.27]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/92/6f/spill_400x400_1d3715db7567ac1e58e0e292f22c8383e5a23beb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[FOREST 2021 Halloween] WH3N 단독콘서트 (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.31 -
-                                                2021.10.31]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/68/d4/spill_400x400_73f51939fb185d32b70de43b77218d1f50b891d2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[망명열차 (단추tv)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/platform/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/platform/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.28 -
-                                                2021.10.28]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/56/a3/spill_400x400_59afb4545ec2163a902711c07cc6cd17e9752040.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파 (aespa) (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/286f53c4560643ffa1379d7c2f8a0fdc/</link>
-            <guid>https://www.mymusictaste.com/live/286f53c4560643ffa1379d7c2f8a0fdc/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[XR LIVE aespa SPECIAL EVENT "Party-On"]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/bf4b45a642d111ecaa9c0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/28f79e75648742e7a32c52c5a3562f75/</link>
-            <guid>https://www.mymusictaste.com/live/28f79e75648742e7a32c52c5a3562f75/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[XR SHOW [FEVER : eXtended edition]]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/dac55478315111ec8ed50a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/15e92f6dd608482fadd39f507f308e56/</link>
-            <guid>https://www.mymusictaste.com/live/15e92f6dd608482fadd39f507f308e56/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 SPECIAL EVENT: THE CASTLE NO.127]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/d5ff73f0379611ec83660a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DREAMCATCHER (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/942f960654a347e78f5827748de30b59/</link>
-            <guid>https://www.mymusictaste.com/live/942f960654a347e78f5827748de30b59/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[HALLOWEEN MIDNIGHT CIRCUS: DREAMCATCHER ONLINE CONCERT 2021]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/b8d420341fa211ecbe010a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/a3558e3ea0854c29a731af99e95096b8/</link>
-            <guid>https://www.mymusictaste.com/live/a3558e3ea0854c29a731af99e95096b8/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[XR LIVE NCT DREAM SPECIAL EVENT : DREAM CINEMA]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/show/a3558e3ea0854c29a731af99e95096b8/card_img_9cdc3251e4034928b2a9ecc63c7bf8c2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[MCND (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/8299d713818844af85342a6198039c55/</link>
-            <guid>https://www.mymusictaste.com/live/8299d713818844af85342a6198039c55/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[MCND 2021 ON:LIVE [ GEM SPACE ]]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/c66caba216a611ecabba0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Museezn (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/4a3a371bd4364227b409b3cf5756c21d/</link>
-            <guid>https://www.mymusictaste.com/live/4a3a371bd4364227b409b3cf5756c21d/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[Museezn Concert 2021 - Reprise]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/c640adac066211ec87d20a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[THE BOYZ & ATEEZ (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/61dbff315ef94e798defddb74baaa277/</link>
-            <guid>https://www.mymusictaste.com/live/61dbff315ef94e798defddb74baaa277/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021 THE BOYZ X ATEEZ ONLINE LIVE : "2WILIGHT ZONE"]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/c26313b60a2111ec9dbd0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[AOMG (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/fb2ea65266cd4475a9f335d142ebeb87/</link>
-            <guid>https://www.mymusictaste.com/live/fb2ea65266cd4475a9f335d142ebeb87/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[AOMG ONLINE CONCERT : Above Ordinary 2021 [ARTIST CLIPS]]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/d01f1c0a066911ecb1150a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[AOMG (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/c19e1f9651f1408a87dadb6c53e5d092/</link>
-            <guid>https://www.mymusictaste.com/live/c19e1f9651f1408a87dadb6c53e5d092/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[AOMG ONLINE CONCERT : Above Ordinary 2021]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/show/c19e1f9651f1408a87dadb6c53e5d092/card_img_b9d0293007a14078a630035d18498dd0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[P1Harmony (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/a8ddad3e76004f6180b321d511a10186/</link>
-            <guid>https://www.mymusictaste.com/live/a8ddad3e76004f6180b321d511a10186/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021 P1Harmony FAN MEETING [P1uspace H : Time To Move Out]]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/d219dec0c36311ebbe9b0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[LOOΠΔ (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/5842e54905814b4aa1d4007d390564f7/</link>
-            <guid>https://www.mymusictaste.com/live/5842e54905814b4aa1d4007d390564f7/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀 LOONA ON WAVE [&amp;]]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/show/5842e54905814b4aa1d4007d390564f7/card_img_dad727b6937e43f0999abbf688412061.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[A.C.E (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/ceb789f503be4b5a889427c9fe8838dc/</link>
-            <guid>https://www.mymusictaste.com/live/ceb789f503be4b5a889427c9fe8838dc/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[A.C.E ONLINE CONCERT: SIREN'S CALL]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/f19cd5cacdb711eb90e40a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hwang In-youp (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/42c65a24e3d649fca50021f76dc6ed37/</link>
-            <guid>https://www.mymusictaste.com/live/42c65a24e3d649fca50021f76dc6ed37/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021 HWANG IN YOUP Ontact Fan Meeting [Magazine H : Hi-high Vol.1]]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/0f77f800bc3a11ebba140a58a9feac02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[LOOΠΔ (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/bdc7dcd43b8b4f81b97208507725e107/</link>
-            <guid>https://www.mymusictaste.com/live/bdc7dcd43b8b4f81b97208507725e107/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀 Premier Greeting [D&amp;D]]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/show/bdc7dcd43b8b4f81b97208507725e107/card_img_b6efc2d65782418488413180db67643d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[디원스 (D1CE) (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/c7c75d831ed24906854a1ca320b8a97b/</link>
-            <guid>https://www.mymusictaste.com/live/c7c75d831ed24906854a1ca320b8a97b/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[D1CE 2nd ONLINE FANMEETING [Dear. My Don1y]]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/5549a5b8a1b111eb8b340a58a9feac2a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[CLASSMATE (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/eb7200f553d24daeaf05ce9485c14612/</link>
-            <guid>https://www.mymusictaste.com/live/eb7200f553d24daeaf05ce9485c14612/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[Online Live Concert &amp; Fanmeeting SPRINGMATE]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/33c4e676a1bc11eb85f50a58a9feac2a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DREAMCATCHER (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/99024e58e1164cd58e57fb6acf0a42f3/</link>
-            <guid>https://www.mymusictaste.com/live/99024e58e1164cd58e57fb6acf0a42f3/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[DREAMCATCHER CONCERT CROSSROADS: Part 2. Dystopia]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/show/99024e58e1164cd58e57fb6acf0a42f3/card_img_9d0b96ad401b4ab5b52dbc84fb5854f7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DREAMCATCHER (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/de233bae2132493c94a56e49fccaa8f6/</link>
-            <guid>https://www.mymusictaste.com/live/de233bae2132493c94a56e49fccaa8f6/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[DREAMCATCHER CONCERT CROSSROADS: Part 1. Utopia]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/64bc21d87c9111eba3890a58a9feac2a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[KIM MYUNG SOO (MyMusicTaste ─ Live)]]></title>
-            <link>https://www.mymusictaste.com/live/5b5a2c6e08d341f9bc0bb545dff7ee01/</link>
-            <guid>https://www.mymusictaste.com/live/5b5a2c6e08d341f9bc0bb545dff7ee01/</guid>
-            <pubDate>Tue, 30 Nov 2021 00:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021 KIM MYUNG SOO Ontact Fan Meeting [Remember US]]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/97c9276c5beb11eb85260a58a9feac2a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[TO THE MOON (Lively)]]></title>
+            <title><![CDATA[TO THE MOON]]></title>
             <link>https://livelystage.com/live-detail/187</link>
             <guid>https://livelystage.com/live-detail/187</guid>
             <pubDate>Tue, 30 Nov 2021 13:37:35 GMT</pubDate>
@@ -479,7 +16,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/187_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[MEANING (Lively)]]></title>
+            <title><![CDATA[MEANING]]></title>
             <link>https://livelystage.com/live-detail/188</link>
             <guid>https://livelystage.com/live-detail/188</guid>
             <pubDate>Tue, 30 Nov 2021 13:37:35 GMT</pubDate>
@@ -487,7 +24,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/188_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[ABOUT TIME (Lively)]]></title>
+            <title><![CDATA[ABOUT TIME]]></title>
             <link>https://livelystage.com/live-detail/189</link>
             <guid>https://livelystage.com/live-detail/189</guid>
             <pubDate>Tue, 30 Nov 2021 13:37:35 GMT</pubDate>
@@ -495,7 +32,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/189_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[BOOK CONCERT (Lively)]]></title>
+            <title><![CDATA[BOOK CONCERT]]></title>
             <link>https://livelystage.com/live-detail/190</link>
             <guid>https://livelystage.com/live-detail/190</guid>
             <pubDate>Tue, 30 Nov 2021 13:37:35 GMT</pubDate>
@@ -503,7 +40,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/190_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[SLEEPLESS NIGHT (Lively)]]></title>
+            <title><![CDATA[SLEEPLESS NIGHT]]></title>
             <link>https://livelystage.com/live-detail/191</link>
             <guid>https://livelystage.com/live-detail/191</guid>
             <pubDate>Tue, 30 Nov 2021 13:37:35 GMT</pubDate>
@@ -511,7 +48,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/191_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[FALLING IN TELL A TALE (Lively)]]></title>
+            <title><![CDATA[FALLING IN TELL A TALE]]></title>
             <link>https://livelystage.com/live-detail/192</link>
             <guid>https://livelystage.com/live-detail/192</guid>
             <pubDate>Tue, 30 Nov 2021 13:37:35 GMT</pubDate>
@@ -519,7 +56,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/192_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[LIVE IN UTOPIA (Lively)]]></title>
+            <title><![CDATA[LIVE IN UTOPIA]]></title>
             <link>https://livelystage.com/live-detail/193</link>
             <guid>https://livelystage.com/live-detail/193</guid>
             <pubDate>Tue, 30 Nov 2021 13:37:35 GMT</pubDate>
@@ -527,7 +64,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/193_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[END OF THE ROAD (Lively)]]></title>
+            <title><![CDATA[END OF THE ROAD]]></title>
             <link>https://livelystage.com/live-detail/194</link>
             <guid>https://livelystage.com/live-detail/194</guid>
             <pubDate>Tue, 30 Nov 2021 13:37:35 GMT</pubDate>
@@ -535,7 +72,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/194_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[NO, I’M FULL LENGTH (Lively)]]></title>
+            <title><![CDATA[NO, I’M FULL LENGTH]]></title>
             <link>https://livelystage.com/live-detail/195</link>
             <guid>https://livelystage.com/live-detail/195</guid>
             <pubDate>Tue, 30 Nov 2021 13:37:35 GMT</pubDate>
@@ -543,7 +80,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/195_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[GREEN WINTER (Lively)]]></title>
+            <title><![CDATA[GREEN WINTER]]></title>
             <link>https://livelystage.com/live-detail/196</link>
             <guid>https://livelystage.com/live-detail/196</guid>
             <pubDate>Tue, 30 Nov 2021 13:37:35 GMT</pubDate>
@@ -551,7 +88,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/196_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[THINGS I LOVE (Lively)]]></title>
+            <title><![CDATA[THINGS I LOVE]]></title>
             <link>https://livelystage.com/live-detail/197</link>
             <guid>https://livelystage.com/live-detail/197</guid>
             <pubDate>Tue, 30 Nov 2021 13:37:35 GMT</pubDate>
@@ -559,7 +96,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/197_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[IN DECEMBER, (Lively)]]></title>
+            <title><![CDATA[IN DECEMBER,]]></title>
             <link>https://livelystage.com/live-detail/198</link>
             <guid>https://livelystage.com/live-detail/198</guid>
             <pubDate>Tue, 30 Nov 2021 13:37:35 GMT</pubDate>
@@ -567,7 +104,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/198_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[BUT NOT GOOD-BYE (Lively)]]></title>
+            <title><![CDATA[BUT NOT GOOD-BYE]]></title>
             <link>https://livelystage.com/live-detail/199</link>
             <guid>https://livelystage.com/live-detail/199</guid>
             <pubDate>Tue, 30 Nov 2021 13:37:35 GMT</pubDate>
@@ -575,7 +112,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/199_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[MY SOKURY! (Lively)]]></title>
+            <title><![CDATA[MY SOKURY!]]></title>
             <link>https://livelystage.com/live-detail/200</link>
             <guid>https://livelystage.com/live-detail/200</guid>
             <pubDate>Tue, 30 Nov 2021 13:37:35 GMT</pubDate>
@@ -583,7 +120,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/200_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[SAD SONGS FOR LONELY PEOPLE (Lively)]]></title>
+            <title><![CDATA[SAD SONGS FOR LONELY PEOPLE]]></title>
             <link>https://livelystage.com/live-detail/201</link>
             <guid>https://livelystage.com/live-detail/201</guid>
             <pubDate>Tue, 30 Nov 2021 13:37:35 GMT</pubDate>
@@ -591,7 +128,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/201_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[SAFETY IN BEDROOM (Lively)]]></title>
+            <title><![CDATA[SAFETY IN BEDROOM]]></title>
             <link>https://livelystage.com/live-detail/202</link>
             <guid>https://livelystage.com/live-detail/202</guid>
             <pubDate>Tue, 30 Nov 2021 13:37:35 GMT</pubDate>
@@ -599,147 +136,11 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/202_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[TURN ON THE ELECTRICPAD (Lively)]]></title>
+            <title><![CDATA[TURN ON THE ELECTRICPAD]]></title>
             <link>https://livelystage.com/live-detail/203</link>
             <guid>https://livelystage.com/live-detail/203</guid>
             <pubDate>Tue, 30 Nov 2021 13:37:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="VJYVkwA11rqtFzXbwlVNE sikWNuQ2ER6AkuokiCDEX _1pgEepHTIo4tJ2ApNjwalc _2msYHPhi0NAdufuChrmGlN"><div class="WGDoaO5yMOnenM7u3d96f"><div class="_2msYHPhi0NAdufuChrmGlN" style="padding-bottom: 141.155%;"><picture class="_3UlXS77zdl8WyZZsKVjEnF WGDoaO5yMOnenM7u3d96f _5ta0uZRkOg1Jj3DRbp7Tr A-Hdgacw417D5_AvU60r1" style="position: absolute;"><source type="image/webp" srcset="https://cf.livelystage.com/contents/images/poster/203_poster.webp"><img src="https://cf.livelystage.com/contents/images/poster/203_poster.png"></picture></div></div></div><div class="_3iQKPGQpf6yCLeK1fODQfU _27qAJcVZxVTTu36ecAk4jQ _1qkT72m4_NUuSrs8Jm1WeU"><div class="_3iQKPGQpf6yCLeK1fODQfU _1dNaWbfKqZ7kQyJplZSgES _15vN49qJlMq4yh4G5mbxYZ WGDoaO5yMOnenM7u3d96f _3udV_1GBTj-_zd6HQIPuwg _3aZHkT0dTCmZ2s7znstpaC _1KVdHd565AkGUJl_88Wk4C"><div class="_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU" style="box-sizing: border-box; background-color: rgba(0, 0, 0, 0); flex-direction: column; flex-grow: 1;"><div class="_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU" style="margin-left: calc(var(--lively-view-scale) * 0px); margin-top: calc(var(--lively-view-scale) * 0px); box-sizing: border-box; background-color: rgba(0, 0, 0, 0); flex-direction: column;"><div class="_2msYHPhi0NAdufuChrmGlN _2S7SnIRM2K15_EZwtwZDYN _2Db1pnG5RkomRNtmorkUzD _2zxhtTExfsQZ_hUOU-6rws _3bQFk-UdGF2Am_udi9YM07 Q0JcFw8SkealbbCjQWx-J _2uRTnsZJg-xOY_1DhuV0Ck" style="color: rgb(255, 255, 255);">TURN ON THE ELECTRICPAD</div></div><div class="_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU" style="margin-top: calc(var(--lively-view-scale) * 4px); box-sizing: border-box; background-color: rgba(0, 0, 0, 0); flex-direction: column;"><div class="_2msYHPhi0NAdufuChrmGlN _1KeHlkqaQ6qlZehtP892F0 ECo76jUO2QkZ7z99fKsu8 _2zxhtTExfsQZ_hUOU-6rws _3bQFk-UdGF2Am_udi9YM07 _2uRTnsZJg-xOY_1DhuV0Ck" style="color: rgb(140, 140, 140);">전기장판을 켜요</div></div></div><div class="_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU" style="box-sizing: border-box; background-color: rgba(0, 0, 0, 0); width: 100%; height: calc(var(--lively-view-scale) * 88px); flex-direction: row;"><div class="_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU" style="padding-left: calc(var(--lively-view-scale) * 13px); padding-top: calc(var(--lively-view-scale) * 23px); padding-bottom: calc(var(--lively-view-scale) * 23px); box-sizing: border-box; background-color: rgb(255, 255, 255); height: 100%; align-items: center; flex-grow: 1; flex-basis: 0px;"><div class="_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU" style="box-sizing: border-box; background-color: rgba(0, 0, 0, 0); flex-direction: column; flex-grow: 1;"><div class="_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU" style="margin-left: calc(var(--lively-view-scale) * 0px); margin-top: calc(var(--lively-view-scale) * 0px); box-sizing: border-box; background-color: rgba(0, 0, 0, 0); flex-direction: column;"><div class="_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU" style="box-sizing: border-box; background-color: rgba(0, 0, 0, 0); flex-direction: row; flex-grow: 1;"><div class="_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU" style="margin-left: calc(var(--lively-view-scale) * 0px); margin-top: calc(var(--lively-view-scale) * 0px); box-sizing: border-box; background-color: rgba(0, 0, 0, 0); flex-direction: row;"><div class="_2msYHPhi0NAdufuChrmGlN _334cIKS891c_nxBxCI0IeA _2XllgNVS6EXbcAcEZ5hesI _2zxhtTExfsQZ_hUOU-6rws _2uRTnsZJg-xOY_1DhuV0Ck" style="color: rgb(50, 50, 50);">아티스트</div></div><div class="_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU" style="margin-left: calc(var(--lively-view-scale) * 8px); box-sizing: border-box; background-color: rgba(0, 0, 0, 0); flex-direction: row;"><div class="_2msYHPhi0NAdufuChrmGlN _334cIKS891c_nxBxCI0IeA ECo76jUO2QkZ7z99fKsu8 _2zxhtTExfsQZ_hUOU-6rws _2uRTnsZJg-xOY_1DhuV0Ck" style="color: rgb(50, 50, 50);">전기장판</div></div></div></div><div class="_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU" style="margin-top: calc(var(--lively-view-scale) * 2px); box-sizing: border-box; background-color: rgba(0, 0, 0, 0); flex-direction: column;"><div class="_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU" style="box-sizing: border-box; background-color: rgba(0, 0, 0, 0); flex-direction: row; flex-grow: 1;"><div class="_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU" style="margin-left: calc(var(--lively-view-scale) * 0px); margin-top: calc(var(--lively-view-scale) * 0px); box-sizing: border-box; background-color: rgba(0, 0, 0, 0); flex-direction: row;"><div class="_2msYHPhi0NAdufuChrmGlN _334cIKS891c_nxBxCI0IeA _2XllgNVS6EXbcAcEZ5hesI _2zxhtTExfsQZ_hUOU-6rws _2uRTnsZJg-xOY_1DhuV0Ck" style="color: rgb(50, 50, 50);">공연일시</div></div><div class="_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU" style="margin-left: calc(var(--lively-view-scale) * 8px); box-sizing: border-box; background-color: rgba(0, 0, 0, 0); flex-direction: row;"><div class="_2msYHPhi0NAdufuChrmGlN _334cIKS891c_nxBxCI0IeA ECo76jUO2QkZ7z99fKsu8 _2zxhtTExfsQZ_hUOU-6rws _2uRTnsZJg-xOY_1DhuV0Ck" style="color: rgb(50, 50, 50);">12월 18일 (토) 오후 12시</div></div></div></div></div></div><div class="_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU" style="box-sizing: border-box; background-color: rgb(128, 148, 139); width: calc(var(--lively-view-scale) * 91px); height: 100%; align-items: center; justify-content: center;"><div class="_2msYHPhi0NAdufuChrmGlN _334cIKS891c_nxBxCI0IeA _2XllgNVS6EXbcAcEZ5hesI _2zxhtTExfsQZ_hUOU-6rws _2uRTnsZJg-xOY_1DhuV0Ck" style="color: rgb(50, 50, 50);">구매하러 가기</div></div></div></div></div>]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/203_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Goose! (Lively)]]></title>
-            <link>https://livelystage.com/live-detail/187</link>
-            <guid>https://livelystage.com/live-detail/187</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 1일 (수) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/187_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[키코 (Kico) (Lively)]]></title>
-            <link>https://livelystage.com/live-detail/188</link>
-            <guid>https://livelystage.com/live-detail/188</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 2일 (목) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/188_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한여유 (Lively)]]></title>
-            <link>https://livelystage.com/live-detail/189</link>
-            <guid>https://livelystage.com/live-detail/189</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 3일 (금) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/189_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정예원 (YEWON) (Lively)]]></title>
-            <link>https://livelystage.com/live-detail/190</link>
-            <guid>https://livelystage.com/live-detail/190</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 4일 (토) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/190_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[헤일리정, 혜인 (Lively)]]></title>
-            <link>https://livelystage.com/live-detail/191</link>
-            <guid>https://livelystage.com/live-detail/191</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 5일 (일) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/191_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[텔어테일 (Lively)]]></title>
-            <link>https://livelystage.com/live-detail/192</link>
-            <guid>https://livelystage.com/live-detail/192</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 7일 (화) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/192_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이준형 (Lively)]]></title>
-            <link>https://livelystage.com/live-detail/193</link>
-            <guid>https://livelystage.com/live-detail/193</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 8일 (수) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/193_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[헤르츠밴드 (Lively)]]></title>
-            <link>https://livelystage.com/live-detail/194</link>
-            <guid>https://livelystage.com/live-detail/194</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 9일 (목) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/194_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[버둥 (Lively)]]></title>
-            <link>https://livelystage.com/live-detail/195</link>
-            <guid>https://livelystage.com/live-detail/195</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 10일 (금) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/195_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[주예인 (Lively)]]></title>
-            <link>https://livelystage.com/live-detail/196</link>
-            <guid>https://livelystage.com/live-detail/196</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 11일 (토) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/196_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[연어초밥 (Lively)]]></title>
-            <link>https://livelystage.com/live-detail/197</link>
-            <guid>https://livelystage.com/live-detail/197</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 12일 (일) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/197_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아륜 (Lively)]]></title>
-            <link>https://livelystage.com/live-detail/198</link>
-            <guid>https://livelystage.com/live-detail/198</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 13일 (월) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/198_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이병현 (Lively)]]></title>
-            <link>https://livelystage.com/live-detail/199</link>
-            <guid>https://livelystage.com/live-detail/199</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 14일 (화) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/199_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지소쿠리 (Lively)]]></title>
-            <link>https://livelystage.com/live-detail/200</link>
-            <guid>https://livelystage.com/live-detail/200</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 15일 (수) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/200_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[야노 (YANO), 레코다메 (Lively)]]></title>
-            <link>https://livelystage.com/live-detail/201</link>
-            <guid>https://livelystage.com/live-detail/201</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 16일 (목) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/201_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[팔칠댄스 (87dance) (Lively)]]></title>
-            <link>https://livelystage.com/live-detail/202</link>
-            <guid>https://livelystage.com/live-detail/202</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 17일 (금) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/202_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전기장판 (Lively)]]></title>
-            <link>https://livelystage.com/live-detail/203</link>
-            <guid>https://livelystage.com/live-detail/203</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 18일 (토) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/203_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
