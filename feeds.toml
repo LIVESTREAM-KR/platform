@@ -51,3 +51,22 @@ contentSelector = "div[class='sc-1e3tjec-5 sc-1e3tjec-8 bcogIH fEyMUm']"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[lively]
+title = "Lively"
+url = "https://livelystage.com/"
+entrySelector = "div._3g7HiCGkMzjd5Rf17YL4IY._2vGNlEHEQYjrL0dsRx8-xv a._3iQKPGQpf6yCLeK1fODQfU"
+titleSelector = "div[class='_2msYHPhi0NAdufuChrmGlN _2S7SnIRM2K15_EZwtwZDYN _2Db1pnG5RkomRNtmorkUzD _2zxhtTExfsQZ_hUOU-6rws _3bQFk-UdGF2Am_udi9YM07 Q0JcFw8SkealbbCjQWx-J _2uRTnsZJg-xOY_1DhuV0Ck']"
+linkSelector = "*"
+contentSelector = "div._28X1nbkP1aWsT_-Me0xLFk._3iQKPGQpf6yCLeK1fODQfU._1dNaWbfKqZ7kQyJplZSgES._1KVdHd565AkGUJl_88Wk4C._1RhspIhvrI6knH1RJPLCP- div._2msYHPhi0NAdufuChrmGlN._3iQKPGQpf6yCLeK1fODQfU"
+imageSelector = "div.VJYVkwA11rqtFzXbwlVNE.sikWNuQ2ER6AkuokiCDEX._1pgEepHTIo4tJ2ApNjwalc._2msYHPhi0NAdufuChrmGlN > div > div > picture > img"
+waitUntil = "networkidle"
+
+[lively_legacy]
+title = "Lively"
+url = "https://livelystage.com/"
+entrySelector = "a._3iQKPGQpf6yCLeK1fODQfU"
+titleSelector = "div[class='_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU'] div[class='_2msYHPhi0NAdufuChrmGlN _334cIKS891c_nxBxCI0IeA ECo76jUO2QkZ7z99fKsu8 _2zxhtTExfsQZ_hUOU-6rws _2uRTnsZJg-xOY_1DhuV0Ck']"
+linkSelector = "*"
+contentSelector = "div[class='_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU'] div[class='_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU']:nth-child(1) div[class='_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU']:nth-child(2) div[class='_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU']:nth-child(2) div[class='_2msYHPhi0NAdufuChrmGlN _334cIKS891c_nxBxCI0IeA ECo76jUO2QkZ7z99fKsu8 _2zxhtTExfsQZ_hUOU-6rws _2uRTnsZJg-xOY_1DhuV0Ck']"
+imageSelector = "picture img"
+waitUntil = "networkidle"
