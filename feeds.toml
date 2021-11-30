@@ -70,3 +70,13 @@ linkSelector = "*"
 contentSelector = "div[class='_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU'] div[class='_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU']:nth-child(1) div[class='_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU']:nth-child(2) div[class='_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU']:nth-child(2) div[class='_2msYHPhi0NAdufuChrmGlN _334cIKS891c_nxBxCI0IeA ECo76jUO2QkZ7z99fKsu8 _2zxhtTExfsQZ_hUOU-6rws _2uRTnsZJg-xOY_1DhuV0Ck']"
 imageSelector = "picture img"
 waitUntil = "networkidle"
+
+[ntck_ott]
+title = "국립극단 ─ 온라인 극장"
+url = "https://on.ntck.or.kr/Product/OTT"
+entrySelector = "ul li.ng-scope"
+titleSelector = "div.prd_info p.tit.ng-binding"
+linkSelector = "a"
+contentSelector = "div.prd_info"
+imageSelector = "div.thumbs img.ng-isolate-scope"
+waitUntil = "networkidle"
