@@ -1,0 +1,31 @@
+[bbangyatv]
+title = "빵야 TV ─ 라이브 일정"
+url = "https://www.bbangyatv.com/main"
+entrySelector = "div[class='d-flex flex-wrap v-card v-card--flat v-sheet theme--light'] div[class='schedule-card v-card v-card--flat v-sheet theme--light']"
+titleSelector = "h4[class='subtitle-1 twoLineEllipsis font-weight-medium']"
+linkSelector = "a"
+contentSelector = "div[class='ml-2']"
+imageSelector = "div[class='v-image__image v-image__image--cover']"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[danchutv]
+title = "단추tv"
+url = "https://danchu.tv/ticket_open"
+entrySelector = "ul.xe-list-webzine-board-list li.xe-list-webzine-board-list-item"
+titleSelector = "h2.xe-list-webzine-board-list-item__title"
+linkSelector = "a.xe-list-webzine-board-list-item__text-link"
+contentSelector = "span.xe-list-webzine-board-ticket-open"
+imageSelector = "div.xe-list-webzine-board-list-item__img"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[mymusictaste]
+title = "MyMusicTaste ─ Live"
+url = "https://www.mymusictaste.com/live/"
+entrySelector = "section.aiup0d-5.dUvocB div.aiup0d-3.brCWqn a.jasviq-0.hwUOqz.aiup0d-2.hvxfNC"
+titleSelector = "h3.sc-1sxlxw0-4.kfJLAM"
+linkSelector = "*"
+contentSelector = "p.sc-1sxlxw0-5.ffZpFc"
+imageSelector = "div.sc-1b180qo-0.ikRoLt img"
+waitUntil = "networkidle"
