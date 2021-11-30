@@ -16,4 +16,11 @@ https://livestream-kr.github.io/danchu/all.xml
 - [티켓오픈소식](https://danchu.tv/ticket_open): https://livestream-kr.github.io/danchu/ticket_open.xml
 - [티켓오픈소식 하이라이트](https://danchu.tv/ticket_open): https://livestream-kr.github.io/danchu/ticket_open_top.xml
 
+## [Lively](https://github.com/LIVESTREAM-KR/lively)
+https://livestream-kr.github.io/lively/all.xml
+- https://livestream-kr.github.io/lively/lively.xml
+  - https://livestream-kr.github.io/lively/lively_legacy.xml
+- https://livestream-kr.github.io/lively/live.xml
+  - https://livestream-kr.github.io/lively/live_legacy.xml
+
 ## Artists'Card
