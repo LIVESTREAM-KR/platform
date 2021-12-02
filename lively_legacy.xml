@@ -4,17 +4,9 @@
         <title>Lively</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 11:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 12:34:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[키코 (Kico)]]></title>
-            <link>https://livelystage.com/live-detail/188</link>
-            <guid>https://livelystage.com/live-detail/188</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 2일 (목) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/188_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[한여유]]></title>
             <link>https://livelystage.com/live-detail/189</link>
