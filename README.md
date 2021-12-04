@@ -23,4 +23,6 @@ https://livestream-kr.github.io/lively/all.xml
 - https://livestream-kr.github.io/lively/live.xml
   - https://livestream-kr.github.io/lively/live_legacy.xml
 
-## Artists'Card
+## [Artists'Card](https://github.com/LIVESTREAM-KR/artistscard)
+https://livestream-kr.github.io/artistscard/all.xml
+- [온라인 콘서트](https://artistscard.com/ko/ticket): https://livestream-kr.github.io/artistscard/artistscard.xml
