@@ -4,17 +4,9 @@
         <title>Lively</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 11:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 12:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[주예인]]></title>
-            <link>https://livelystage.com/live-detail/196</link>
-            <guid>https://livelystage.com/live-detail/196</guid>
-            <pubDate>Tue, 30 Nov 2021 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 11일 (토) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/196_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[연어초밥]]></title>
             <link>https://livelystage.com/live-detail/197</link>
