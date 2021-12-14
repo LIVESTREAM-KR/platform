@@ -4,9 +4,17 @@
         <title>단추tv</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 07:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 08:27:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Danny's Day 2021 티켓오픈 안내]]></title>
+            <link>https://danchu.tv/ticket_open/show/71f2d7f1-400c-4c4f-a0ad-453c7e64d48d</link>
+            <guid>https://danchu.tv/ticket_open/show/71f2d7f1-400c-4c4f-a0ad-453c7e64d48d</guid>
+            <pubDate>Tue, 14 Dec 2021 08:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 12. 15 (수) 15:00]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/bd/7c/spill_800x800_e5e0487518c80e4ca4b363ebbc53e3280c99dfb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에이프릴 세컨드 단독 공연 <12월의 돌고래 : SOMEWHERE> 티켓오픈 안내]]></title>
             <link>https://danchu.tv/ticket_open/show/120b8c19-25b1-4ef9-b4c1-82e42b026125</link>
@@ -77,14 +85,6 @@
             <pubDate>Wed, 08 Dec 2021 15:23:09 GMT</pubDate>
             <content:encoded><![CDATA[2021. 9. 17 (금) 17:00]]></content:encoded>
             <enclosure url="https://danchu.tv/storage/app/public/thumbnails/3b/f3/spill_800x800_7f0734ff82f7cc13f60a707ccddc2a7dd2f07508.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브로콜리너마저와 함께라면, 당신도 K－인디 작사가! 티켓오픈 안내]]></title>
-            <link>https://danchu.tv/ticket_open/show/b7cbe046-8def-490f-9a2e-688762c2a704</link>
-            <guid>https://danchu.tv/ticket_open/show/b7cbe046-8def-490f-9a2e-688762c2a704</guid>
-            <pubDate>Wed, 08 Dec 2021 15:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 9. 10 (금) 14:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/33/09/spill_800x800_2fa1e576b0bb47b1725edefcad33344b20076862.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
