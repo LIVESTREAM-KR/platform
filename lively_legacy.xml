@@ -4,17 +4,9 @@
         <title>Lively</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 11:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 12:36:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[숨비]]></title>
-            <link>https://livelystage.com/live-detail/205</link>
-            <guid>https://livelystage.com/live-detail/205</guid>
-            <pubDate>Mon, 06 Dec 2021 08:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[12월 20일 (월) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/205_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[828]]></title>
             <link>https://livelystage.com/live-detail/206</link>
