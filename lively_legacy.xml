@@ -4,17 +4,9 @@
         <title>Lively</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 11:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 12:35:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[경서]]></title>
-            <link>https://livelystage.com/live-detail/211</link>
-            <guid>https://livelystage.com/live-detail/211</guid>
-            <pubDate>Tue, 14 Dec 2021 08:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일 (목) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/211_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[분리수거밴드 (BLSG)]]></title>
             <link>https://livelystage.com/live-detail/212</link>
