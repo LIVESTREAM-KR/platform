@@ -26,3 +26,6 @@ https://livestream-kr.github.io/lively/all.xml
 ## [Artists'Card](https://github.com/LIVESTREAM-KR/artistscard)
 https://livestream-kr.github.io/artistscard/all.xml
 - [온라인 콘서트](https://artistscard.com/ko/ticket): https://livestream-kr.github.io/artistscard/artistscard.xml
+
+## [LAKUS](https://github.com/LIVESTREAM-KR/lakus)
+- https://livestream-kr.github.io/lakus/lakus.xml
