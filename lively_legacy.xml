@@ -4,7 +4,7 @@
         <title>Lively</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 07:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 08:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,54 @@
             <pubDate>Tue, 04 Jan 2022 06:27:15 GMT</pubDate>
             <content:encoded><![CDATA[1월 22일 (토) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/223_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Penten (펜텐)]]></title>
+            <link>https://livelystage.com/live-detail/224</link>
+            <guid>https://livelystage.com/live-detail/224</guid>
+            <pubDate>Mon, 10 Jan 2022 08:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[1월 23일 (일) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/224_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[룬]]></title>
+            <link>https://livelystage.com/live-detail/225</link>
+            <guid>https://livelystage.com/live-detail/225</guid>
+            <pubDate>Mon, 10 Jan 2022 08:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[1월 24일 (월) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/225_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[수은]]></title>
+            <link>https://livelystage.com/live-detail/226</link>
+            <guid>https://livelystage.com/live-detail/226</guid>
+            <pubDate>Mon, 10 Jan 2022 08:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[1월 25일 (화) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/226_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[다양성]]></title>
+            <link>https://livelystage.com/live-detail/227</link>
+            <guid>https://livelystage.com/live-detail/227</guid>
+            <pubDate>Mon, 10 Jan 2022 08:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[1월 26일 (수) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/227_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[주하늘]]></title>
+            <link>https://livelystage.com/live-detail/228</link>
+            <guid>https://livelystage.com/live-detail/228</guid>
+            <pubDate>Mon, 10 Jan 2022 08:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[1월 27일 (목) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/228_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[정화 and her Duo]]></title>
+            <link>https://livelystage.com/live-detail/229</link>
+            <guid>https://livelystage.com/live-detail/229</guid>
+            <pubDate>Mon, 10 Jan 2022 08:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[1월 28일 (금) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/229_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
