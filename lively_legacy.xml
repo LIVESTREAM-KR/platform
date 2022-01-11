@@ -4,17 +4,9 @@
         <title>Lively</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 11:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 12:35:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[문소문]]></title>
-            <link>https://livelystage.com/live-detail/213</link>
-            <guid>https://livelystage.com/live-detail/213</guid>
-            <pubDate>Mon, 27 Dec 2021 10:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[1월 11일 (화) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/213_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[스트레이 (The Stray)]]></title>
             <link>https://livelystage.com/live-detail/214</link>
