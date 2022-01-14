@@ -4,17 +4,9 @@
         <title>Lively</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 11:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 12:36:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[시옷]]></title>
-            <link>https://livelystage.com/live-detail/216</link>
-            <guid>https://livelystage.com/live-detail/216</guid>
-            <pubDate>Mon, 27 Dec 2021 10:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[1월 14일 (금) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/216_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[유랑밴드]]></title>
             <link>https://livelystage.com/live-detail/217</link>
