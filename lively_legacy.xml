@@ -4,17 +4,9 @@
         <title>Lively</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 11:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 12:35:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이더]]></title>
-            <link>https://livelystage.com/live-detail/218</link>
-            <guid>https://livelystage.com/live-detail/218</guid>
-            <pubDate>Tue, 04 Jan 2022 06:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[1월 16일 (일) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/218_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[Baek's Groove]]></title>
             <link>https://livelystage.com/live-detail/219</link>
