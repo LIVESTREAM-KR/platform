@@ -4,17 +4,9 @@
         <title>Lively</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 11:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 12:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[곽태풍]]></title>
-            <link>https://livelystage.com/live-detail/221</link>
-            <guid>https://livelystage.com/live-detail/221</guid>
-            <pubDate>Tue, 04 Jan 2022 06:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[1월 19일 (수) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/221_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[은종]]></title>
             <link>https://livelystage.com/live-detail/222</link>
