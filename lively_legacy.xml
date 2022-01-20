@@ -4,7 +4,7 @@
         <title>Lively</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 07:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 08:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,30 @@
             <pubDate>Mon, 10 Jan 2022 08:28:22 GMT</pubDate>
             <content:encoded><![CDATA[1월 28일 (금) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/229_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[조우재]]></title>
+            <link>https://livelystage.com/live-detail/230</link>
+            <guid>https://livelystage.com/live-detail/230</guid>
+            <pubDate>Thu, 20 Jan 2022 08:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[2월 3일 (목) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/230_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[임수연]]></title>
+            <link>https://livelystage.com/live-detail/231</link>
+            <guid>https://livelystage.com/live-detail/231</guid>
+            <pubDate>Thu, 20 Jan 2022 08:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[2월 4일 (금) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/231_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오붓]]></title>
+            <link>https://livelystage.com/live-detail/232</link>
+            <guid>https://livelystage.com/live-detail/232</guid>
+            <pubDate>Thu, 20 Jan 2022 08:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[2월 5일 (토) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/232_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
