@@ -4,7 +4,7 @@
         <title>Lively</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 05:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 06:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,30 @@
             <pubDate>Thu, 20 Jan 2022 08:24:50 GMT</pubDate>
             <content:encoded><![CDATA[2월 5일 (토) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/232_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SAGA]]></title>
+            <link>https://livelystage.com/live-detail/233</link>
+            <guid>https://livelystage.com/live-detail/233</guid>
+            <pubDate>Thu, 27 Jan 2022 06:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[2월 6일 (일) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/233_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이인세 (INSE)]]></title>
+            <link>https://livelystage.com/live-detail/234</link>
+            <guid>https://livelystage.com/live-detail/234</guid>
+            <pubDate>Thu, 27 Jan 2022 06:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[2월 10일 (목) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/234_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Dazzling Jihye]]></title>
+            <link>https://livelystage.com/live-detail/235</link>
+            <guid>https://livelystage.com/live-detail/235</guid>
+            <pubDate>Thu, 27 Jan 2022 06:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[2월 11일 (금) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/235_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
