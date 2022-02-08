@@ -4,9 +4,17 @@
         <title>MyMusicTaste ─ Live</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 07:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 08:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이달의 소녀 (LOOΠΔ)]]></title>
+            <link>https://www.mymusictaste.com/live/96ee2f602b204206920d390017a2b702/</link>
+            <guid>https://www.mymusictaste.com/live/96ee2f602b204206920d390017a2b702/</guid>
+            <pubDate>Tue, 08 Feb 2022 08:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]]]></content:encoded>
+            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/eb894c54728711ec921c0a58a9feac02.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[에스파 (aespa)]]></title>
             <link>https://www.mymusictaste.com/live/286f53c4560643ffa1379d7c2f8a0fdc/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 15 Jan 2022 12:35:06 GMT</pubDate>
             <content:encoded><![CDATA[DREAMCATCHER CONCERT CROSSROADS: Part 1. Utopia]]></content:encoded>
             <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/64bc21d87c9111eba3890a58a9feac2a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[KIM MYUNG SOO]]></title>
-            <link>https://www.mymusictaste.com/live/5b5a2c6e08d341f9bc0bb545dff7ee01/</link>
-            <guid>https://www.mymusictaste.com/live/5b5a2c6e08d341f9bc0bb545dff7ee01/</guid>
-            <pubDate>Sat, 15 Jan 2022 12:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021 KIM MYUNG SOO Ontact Fan Meeting [Remember US]]]></content:encoded>
-            <enclosure url="https://prodmsamedia.mymusictaste.com/cshopproject/images/97c9276c5beb11eb85260a58a9feac2a.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
