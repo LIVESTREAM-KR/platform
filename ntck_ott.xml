@@ -4,9 +4,33 @@
         <title>국립극단 ─ 온라인 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 04:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 05:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소년이그랬다(남수현, 이문식 배우 편)]]></title>
+            <link>https://on.ntck.or.kr/Product/OTT/Details/257096</link>
+            <guid>https://on.ntck.or.kr/Product/OTT/Details/257096</guid>
+            <pubDate>Thu, 03 Mar 2022 05:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">소년이그랬다(남수현, 이문식 배우 편)</p>
+                                <p class="time ng-binding" data-ng-bind="item.RunningTime">74분</p>
+                                <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
+                                <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">원작 톰 라이코스 &amp; 스테포 난쑤 l  극본 한현주 l  연출 남인우</p>
+                                <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
+            <enclosure url="https://on.ntck.or.kr/Down/Perf/202202/%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5thum_856x624_%EC%86%8C%EB%85%84%EC%9D%B4%EA%B7%B8%EB%9E%AC%EB%8B%A4_OB.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[소년이그랬다(김우진, 윤동원 배우 편)]]></title>
+            <link>https://on.ntck.or.kr/Product/OTT/Details/257095</link>
+            <guid>https://on.ntck.or.kr/Product/OTT/Details/257095</guid>
+            <pubDate>Thu, 03 Mar 2022 05:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">소년이그랬다(김우진, 윤동원 배우 편)</p>
+                                <p class="time ng-binding" data-ng-bind="item.RunningTime">70분</p>
+                                <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
+                                <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">원작 톰 라이코스 &amp; 스테포 난쑤 l  극본 한현주 l  연출 남인우</p>
+                                <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
+            <enclosure url="https://on.ntck.or.kr/Down/Perf/202202/%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5thum_856x624_%EC%86%8C%EB%85%84%EC%9D%B4%EA%B7%B8%EB%9E%AC%EB%8B%A4_YB.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[만선]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257088</link>
@@ -104,23 +128,18 @@
             <enclosure url="https://on.ntck.or.kr/Down/Perf/202110/%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5thum_856x624_%EC%8A%A4%EC%B9%B4%ED%8C%BD(%ED%99%94%EB%A9%B4%ED%95%B4%EC%84%A4).png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[스카팽]]></title>
-            <link>https://on.ntck.or.kr/Product/OTT/Details/257049</link>
-            <guid>https://on.ntck.or.kr/Product/OTT/Details/257049</guid>
-            <pubDate>Mon, 14 Feb 2022 06:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">스카팽</p>
-                                <p class="time ng-binding" data-ng-bind="item.RunningTime">121분</p>
-                                <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
-                                <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">원작 몰리에르 l 각색·연출 임도완</p>
-                                <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
-            <enclosure url="https://on.ntck.or.kr/Down/Perf/202110/%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5thum_856x624_%EC%8A%A4%EC%B9%B4%ED%8C%BD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[9]]></title>
+            <title><![CDATA[10]]></title>
             <link>https://on.ntck.or.kr/Product/OTT#</link>
             <guid>https://on.ntck.or.kr/Product/OTT#</guid>
             <pubDate>Mon, 14 Feb 2022 06:25:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#" data-ng-click="ctrl.onPagerClick(item, $event)" data-ng-bind="item" title="1페이지 이동" class="ng-binding">1</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[11]]></title>
+            <link>https://on.ntck.or.kr/Product/OTT#</link>
+            <guid>https://on.ntck.or.kr/Product/OTT#</guid>
+            <pubDate>Mon, 14 Feb 2022 06:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="#" data-ng-click="ctrl.onPagerClick(item, $event)" data-ng-bind="item" title="2페이지 이동" class="ng-binding">2</a>]]></content:encoded>
         </item>
     </channel>
 </rss>
