@@ -4,9 +4,21 @@
         <title>국립극단 ─ 온라인 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 04:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 05:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[극동 시베리아 순례길]]></title>
+            <link>https://on.ntck.or.kr/Product/OTT/Details/257161</link>
+            <guid>https://on.ntck.or.kr/Product/OTT/Details/257161</guid>
+            <pubDate>Wed, 21 Jun 2023 05:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">극동 시베리아 순례길</p>
+                                <p class="time ng-binding" data-ng-bind="item.RunningTime">98분</p>
+                                <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
+                                <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">작·연출 정진새</p>
+                                <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
+            <enclosure url="https://on.ntck.or.kr/Down/Perf/202306/2023%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5_%EA%B7%B9%EB%8F%99_856x624_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세인트 조앤]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257160</link>
@@ -114,18 +126,6 @@
                                 <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">작 배해률 l 연출 이래은</p>
                                 <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
             <enclosure url="https://on.ntck.or.kr/Down/Perf/202208/2022%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5_856x624_%EC%84%9C%EC%9A%B8%EC%88%98%EB%8B%AC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[밤의 사막 너머]]></title>
-            <link>https://on.ntck.or.kr/Product/OTT/Details/257124</link>
-            <guid>https://on.ntck.or.kr/Product/OTT/Details/257124</guid>
-            <pubDate>Wed, 16 Nov 2022 17:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">밤의 사막 너머</p>
-                                <p class="time ng-binding" data-ng-bind="item.RunningTime">96분</p>
-                                <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
-                                <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">작 신해연 l 연출 동이향</p>
-                                <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
-            <enclosure url="https://on.ntck.or.kr/Down/Perf/202208/2022%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5_856x624_%EB%B0%A4%EC%9D%98%EC%82%AC%EB%A7%89%EB%84%88%EB%A8%B8.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[10]]></title>
