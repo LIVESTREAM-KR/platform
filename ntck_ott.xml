@@ -4,9 +4,21 @@
         <title>국립극단 ─ 온라인 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 04:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 05:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[햄릿]]></title>
+            <link>https://on.ntck.or.kr/Product/OTT/Details/257165</link>
+            <guid>https://on.ntck.or.kr/Product/OTT/Details/257165</guid>
+            <pubDate>Fri, 11 Aug 2023 05:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">햄릿</p>
+                                <p class="time ng-binding" data-ng-bind="item.RunningTime">138분</p>
+                                <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
+                                <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">원작 윌리엄 셰익스피어 l 윤색·연출 부새롬 l 각색 정진새</p>
+                                <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
+            <enclosure url="https://on.ntck.or.kr/Down/Perf/202307/%EC%84%9C%EB%B8%8C%EB%B0%B0%EB%84%88.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[극동 시베리아 순례길]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257161</link>
@@ -114,18 +126,6 @@
                                 <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">작 김도영 l 연출 신재훈</p>
                                 <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
             <enclosure url="https://on.ntck.or.kr/Down/Perf/202208/2022%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5_856x624_%EA%B8%88%EC%A1%B0%EC%9D%B4%EC%95%BC%EA%B8%B0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 도심의 개천에서도 작은발톱수달이 이따금 목격되곤 합니다]]></title>
-            <link>https://on.ntck.or.kr/Product/OTT/Details/257125</link>
-            <guid>https://on.ntck.or.kr/Product/OTT/Details/257125</guid>
-            <pubDate>Wed, 16 Nov 2022 17:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">서울 도심의 개천에서도 작은발톱수달이 이따금 목격되곤 합니다</p>
-                                <p class="time ng-binding" data-ng-bind="item.RunningTime">108분</p>
-                                <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
-                                <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">작 배해률 l 연출 이래은</p>
-                                <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
-            <enclosure url="https://on.ntck.or.kr/Down/Perf/202208/2022%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5_856x624_%EC%84%9C%EC%9A%B8%EC%88%98%EB%8B%AC.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[10]]></title>
