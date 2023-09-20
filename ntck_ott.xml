@@ -4,9 +4,33 @@
         <title>국립극단 ─ 온라인 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 04:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 05:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몬순]]></title>
+            <link>https://on.ntck.or.kr/Product/OTT/Details/257174</link>
+            <guid>https://on.ntck.or.kr/Product/OTT/Details/257174</guid>
+            <pubDate>Wed, 20 Sep 2023 05:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">몬순</p>
+                                <p class="time ng-binding" data-ng-bind="item.RunningTime">129분</p>
+                                <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
+                                <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">작 이소연 l 연출 진해정</p>
+                                <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
+            <enclosure url="https://on.ntck.or.kr/Down/Perf/202309/2023_%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5_%EB%AA%AC%EC%88%9C_856x624_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[보존과학자]]></title>
+            <link>https://on.ntck.or.kr/Product/OTT/Details/257173</link>
+            <guid>https://on.ntck.or.kr/Product/OTT/Details/257173</guid>
+            <pubDate>Wed, 20 Sep 2023 05:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">보존과학자</p>
+                                <p class="time ng-binding" data-ng-bind="item.RunningTime">111분</p>
+                                <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
+                                <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">작 윤미희 l 연출 이인수</p>
+                                <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
+            <enclosure url="https://on.ntck.or.kr/Down/Perf/202309/2023_%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5_%EB%B3%B4%EC%A1%B4%EA%B3%BC%ED%95%99%EC%9E%90_856x624.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[햄릿]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257165</link>
@@ -102,30 +126,6 @@
                                 <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">작·연출 전윤환</p>
                                 <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
             <enclosure url="https://on.ntck.or.kr/Down/Perf/202211/2022%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5_856x624_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기후비상사태: 리허설(배리어프리-음성해설)]]></title>
-            <link>https://on.ntck.or.kr/Product/OTT/Details/257133</link>
-            <guid>https://on.ntck.or.kr/Product/OTT/Details/257133</guid>
-            <pubDate>Tue, 06 Dec 2022 05:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">기후비상사태: 리허설(배리어프리-음성해설)</p>
-                                <p class="time ng-binding" data-ng-bind="item.RunningTime">116분</p>
-                                <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
-                                <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">작·연출 전윤환</p>
-                                <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
-            <enclosure url="https://on.ntck.or.kr/Down/Perf/202211/2022%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5_856x624_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[금조 이야기]]></title>
-            <link>https://on.ntck.or.kr/Product/OTT/Details/257126</link>
-            <guid>https://on.ntck.or.kr/Product/OTT/Details/257126</guid>
-            <pubDate>Wed, 16 Nov 2022 17:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">금조 이야기</p>
-                                <p class="time ng-binding" data-ng-bind="item.RunningTime">233분</p>
-                                <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
-                                <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">작 김도영 l 연출 신재훈</p>
-                                <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
-            <enclosure url="https://on.ntck.or.kr/Down/Perf/202208/2022%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5_856x624_%EA%B8%88%EC%A1%B0%EC%9D%B4%EC%95%BC%EA%B8%B0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[10]]></title>
