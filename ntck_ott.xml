@@ -4,9 +4,30 @@
         <title>국립극단 ─ 온라인 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 23:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 01:37:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[0]]></title>
+            <link>https://on.ntck.or.kr/Product/OTT#none</link>
+            <guid>https://on.ntck.or.kr/Product/OTT#none</guid>
+            <pubDate>Thu, 29 Aug 2024 01:37:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="#none" data-ng-click="ctrl.HomepageTabCategoryChange(item.Value)" class="ng-binding">기획초청</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1]]></title>
+            <link>https://on.ntck.or.kr/Product/OTT#none</link>
+            <guid>https://on.ntck.or.kr/Product/OTT#none</guid>
+            <pubDate>Thu, 29 Aug 2024 01:37:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="#none" data-ng-click="ctrl.HomepageTabCategoryChange(item.Value)" class="ng-binding">수어통역(배리어프리)</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2]]></title>
+            <link>https://on.ntck.or.kr/Product/OTT#none</link>
+            <guid>https://on.ntck.or.kr/Product/OTT#none</guid>
+            <pubDate>Thu, 29 Aug 2024 01:37:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="#none" data-ng-click="ctrl.HomepageTabCategoryChange(item.Value)" class="ng-binding">음성해설(배리어프리)</a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[영지]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257220</link>
@@ -116,44 +137,39 @@
             <enclosure url="https://on.ntck.or.kr/Down/Perf/202311/2023%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5_856x624_%EB%A7%8C%EC%84%A0_(2).png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[만선(배리어프리-음성해설)]]></title>
-            <link>https://on.ntck.or.kr/Product/OTT/Details/257184</link>
-            <guid>https://on.ntck.or.kr/Product/OTT/Details/257184</guid>
-            <pubDate>Thu, 07 Dec 2023 05:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">만선(배리어프리-음성해설)</p>
-                                <p class="time ng-binding" data-ng-bind="item.RunningTime">118분</p>
-                                <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
-                                <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">작 천승세 l 윤색 윤미현 l 연출 심재찬</p>
-                                <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
-            <enclosure url="https://on.ntck.or.kr/Down/Perf/202311/2023%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5_856x624_%EB%A7%8C%EC%84%A0_(1).png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[10]]></title>
+            <title><![CDATA[12]]></title>
             <link>https://on.ntck.or.kr/Product/OTT#</link>
             <guid>https://on.ntck.or.kr/Product/OTT#</guid>
             <pubDate>Wed, 16 Nov 2022 17:32:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#" data-ng-click="ctrl.onPagerClick(item, $event)" data-ng-bind="item" title="1페이지 이동" class="ng-binding">1</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[11]]></title>
+            <title><![CDATA[13]]></title>
             <link>https://on.ntck.or.kr/Product/OTT#</link>
             <guid>https://on.ntck.or.kr/Product/OTT#</guid>
             <pubDate>Wed, 16 Nov 2022 17:32:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#" data-ng-click="ctrl.onPagerClick(item, $event)" data-ng-bind="item" title="2페이지 이동" class="ng-binding">2</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[12]]></title>
+            <title><![CDATA[14]]></title>
             <link>https://on.ntck.or.kr/Product/OTT#</link>
             <guid>https://on.ntck.or.kr/Product/OTT#</guid>
             <pubDate>Wed, 16 Nov 2022 17:32:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#" data-ng-click="ctrl.onPagerClick(item, $event)" data-ng-bind="item" title="3페이지 이동" class="ng-binding">3</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[13]]></title>
+            <title><![CDATA[15]]></title>
             <link>https://on.ntck.or.kr/Product/OTT#</link>
             <guid>https://on.ntck.or.kr/Product/OTT#</guid>
             <pubDate>Wed, 16 Nov 2022 17:32:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#" data-ng-click="ctrl.onPagerClick(item, $event)" data-ng-bind="item" title="4페이지 이동" class="ng-binding">4</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[16]]></title>
+            <link>https://on.ntck.or.kr/Product/OTT#</link>
+            <guid>https://on.ntck.or.kr/Product/OTT#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="#" data-ng-click="ctrl.onPagerClick(item, $event)" data-ng-bind="item" title="5페이지 이동" class="ng-binding">5</a>]]></content:encoded>
         </item>
     </channel>
 </rss>
