@@ -4,7 +4,7 @@
         <title>국립극단 ─ 온라인 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 04:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 05:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,6 +34,30 @@
             <guid>https://on.ntck.or.kr/Product/OTT#none</guid>
             <pubDate>Thu, 29 Aug 2024 01:37:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#none" data-ng-click="ctrl.HomepageTabCategoryChange(item.Value)" class="ng-binding">음성해설(배리어프리)</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[기획초청] 미궁의 설계자]]></title>
+            <link>https://on.ntck.or.kr/Product/OTT/Details/257236</link>
+            <guid>https://on.ntck.or.kr/Product/OTT/Details/257236</guid>
+            <pubDate>Thu, 05 Sep 2024 05:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">[기획초청] 미궁의 설계자</p>
+                                <p class="time ng-binding" data-ng-bind="item.RunningTime">90분</p>
+                                <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
+                                <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">연극집단 반</p>
+                                <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
+            <enclosure url="https://on.ntck.or.kr/Down/Perf/202408/%EB%AF%B8%EA%B6%81%EC%9D%98_%EC%84%A4%EA%B3%84%EC%9E%90_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9A%A9_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[기획초청] 화전]]></title>
+            <link>https://on.ntck.or.kr/Product/OTT/Details/257235</link>
+            <guid>https://on.ntck.or.kr/Product/OTT/Details/257235</guid>
+            <pubDate>Thu, 05 Sep 2024 05:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">[기획초청] 화전</p>
+                                <p class="time ng-binding" data-ng-bind="item.RunningTime">121분</p>
+                                <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
+                                <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">창작공동체 아르케</p>
+                                <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
+            <enclosure url="https://on.ntck.or.kr/Down/Perf/202408/%ED%99%94%EC%A0%84_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9A%A9.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[영지]]></title>
@@ -118,30 +142,6 @@
                                 <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">원작 기군상 l 각색 ·연출 고선웅</p>
                                 <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
             <enclosure url="https://on.ntck.or.kr/Down/Perf/202312/2023%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5_856x624_%EC%A1%B0%EC%94%A8%EA%B3%A0%EC%95%84_(2).png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[조씨고아, 복수의 씨앗(배리어프리-음성해설)]]></title>
-            <link>https://on.ntck.or.kr/Product/OTT/Details/257186</link>
-            <guid>https://on.ntck.or.kr/Product/OTT/Details/257186</guid>
-            <pubDate>Fri, 30 Aug 2024 01:37:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">조씨고아, 복수의 씨앗(배리어프리-음성해설)</p>
-                                <p class="time ng-binding" data-ng-bind="item.RunningTime">152분</p>
-                                <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
-                                <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">원작 기군상 l 각색 ·연출 고선웅</p>
-                                <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
-            <enclosure url="https://on.ntck.or.kr/Down/Perf/202312/2023%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5_856x624_%EC%A1%B0%EC%94%A8%EA%B3%A0%EC%95%84_(1).png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[만선(배리어프리-수어통역)]]></title>
-            <link>https://on.ntck.or.kr/Product/OTT/Details/257185</link>
-            <guid>https://on.ntck.or.kr/Product/OTT/Details/257185</guid>
-            <pubDate>Fri, 30 Aug 2024 01:37:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">만선(배리어프리-수어통역)</p>
-                                <p class="time ng-binding" data-ng-bind="item.RunningTime">111분</p>
-                                <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
-                                <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">작 천승세 l 윤색 윤미현 l 연출 심재찬</p>
-                                <p class="price"><span data-ng-bind="item.TicketPrice" class="ng-binding">9,900원</span></p>]]></content:encoded>
-            <enclosure url="https://on.ntck.or.kr/Down/Perf/202311/2023%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B7%B9%EC%9E%A5_856x624_%EB%A7%8C%EC%84%A0_(2).png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[13]]></title>
