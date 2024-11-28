@@ -4,42 +4,42 @@
         <title>국립극단 ─ 온라인 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Nov 2024 20:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 21:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[0]]></title>
             <link>https://on.ntck.or.kr/Product/OTT#none</link>
             <guid>https://on.ntck.or.kr/Product/OTT#none</guid>
-            <pubDate>Thu, 29 Aug 2024 01:37:10 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#none" data-ng-click="ctrl.HomepageTabCategoryChange(item.Value)" class="ng-binding">전체</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1]]></title>
             <link>https://on.ntck.or.kr/Product/OTT#none</link>
             <guid>https://on.ntck.or.kr/Product/OTT#none</guid>
-            <pubDate>Thu, 29 Aug 2024 01:37:10 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#none" data-ng-click="ctrl.HomepageTabCategoryChange(item.Value)" class="ng-binding">기획초청</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2]]></title>
             <link>https://on.ntck.or.kr/Product/OTT#none</link>
             <guid>https://on.ntck.or.kr/Product/OTT#none</guid>
-            <pubDate>Thu, 29 Aug 2024 01:37:10 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#none" data-ng-click="ctrl.HomepageTabCategoryChange(item.Value)" class="ng-binding">수어통역(배리어프리)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3]]></title>
             <link>https://on.ntck.or.kr/Product/OTT#none</link>
             <guid>https://on.ntck.or.kr/Product/OTT#none</guid>
-            <pubDate>Thu, 29 Aug 2024 01:37:10 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#none" data-ng-click="ctrl.HomepageTabCategoryChange(item.Value)" class="ng-binding">음성해설(배리어프리)</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[활화산]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257245</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257245</guid>
-            <pubDate>Mon, 25 Nov 2024 05:24:18 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">활화산</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">159분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -51,7 +51,7 @@
             <title><![CDATA[[기획초청] 미궁의 설계자]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257236</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257236</guid>
-            <pubDate>Thu, 05 Sep 2024 05:20:59 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">[기획초청] 미궁의 설계자</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">90분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -63,7 +63,7 @@
             <title><![CDATA[[기획초청] 화전]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257235</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257235</guid>
-            <pubDate>Thu, 05 Sep 2024 05:20:59 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">[기획초청] 화전</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">121분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -75,7 +75,7 @@
             <title><![CDATA[영지]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257220</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257220</guid>
-            <pubDate>Mon, 08 Jul 2024 05:21:44 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">영지</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">60분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -87,7 +87,7 @@
             <title><![CDATA[영지(배리어프리-수어통역)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257219</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257219</guid>
-            <pubDate>Fri, 30 Aug 2024 01:37:36 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">영지(배리어프리-수어통역)</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">60분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -99,7 +99,7 @@
             <title><![CDATA[영지(배리어프리-음성해설)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257218</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257218</guid>
-            <pubDate>Fri, 30 Aug 2024 01:37:36 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">영지(배리어프리-음성해설)</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">67분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -111,7 +111,7 @@
             <title><![CDATA[벚꽃 동산]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257217</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257217</guid>
-            <pubDate>Wed, 03 Apr 2024 05:18:16 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">벚꽃 동산</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">120분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -123,7 +123,7 @@
             <title><![CDATA[벚꽃 동산(배리어프리-수어통역)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257216</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257216</guid>
-            <pubDate>Fri, 30 Aug 2024 01:37:36 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">벚꽃 동산(배리어프리-수어통역)</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">120분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -135,7 +135,7 @@
             <title><![CDATA[벚꽃 동산(배리어프리-음성해설)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257215</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257215</guid>
-            <pubDate>Fri, 30 Aug 2024 01:37:36 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">벚꽃 동산(배리어프리-음성해설)</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">128분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -147,35 +147,35 @@
             <title><![CDATA[13]]></title>
             <link>https://on.ntck.or.kr/Product/OTT#</link>
             <guid>https://on.ntck.or.kr/Product/OTT#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:32:05 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#" data-ng-click="ctrl.onPagerClick(item, $event)" data-ng-bind="item" title="1페이지 이동" class="ng-binding">1</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[14]]></title>
             <link>https://on.ntck.or.kr/Product/OTT#</link>
             <guid>https://on.ntck.or.kr/Product/OTT#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:32:05 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#" data-ng-click="ctrl.onPagerClick(item, $event)" data-ng-bind="item" title="2페이지 이동" class="ng-binding">2</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[15]]></title>
             <link>https://on.ntck.or.kr/Product/OTT#</link>
             <guid>https://on.ntck.or.kr/Product/OTT#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:32:05 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#" data-ng-click="ctrl.onPagerClick(item, $event)" data-ng-bind="item" title="3페이지 이동" class="ng-binding">3</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[16]]></title>
             <link>https://on.ntck.or.kr/Product/OTT#</link>
             <guid>https://on.ntck.or.kr/Product/OTT#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:32:05 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#" data-ng-click="ctrl.onPagerClick(item, $event)" data-ng-bind="item" title="4페이지 이동" class="ng-binding">4</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[17]]></title>
             <link>https://on.ntck.or.kr/Product/OTT#</link>
             <guid>https://on.ntck.or.kr/Product/OTT#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:32:05 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#" data-ng-click="ctrl.onPagerClick(item, $event)" data-ng-bind="item" title="5페이지 이동" class="ng-binding">5</a>]]></content:encoded>
         </item>
     </channel>
