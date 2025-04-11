@@ -4,7 +4,7 @@
         <title>국립극단 ─ 온라인 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 16:30:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 17:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,11 +84,11 @@
             <enclosure url="https://on.ntck.or.kr/Down/Perf/202411/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EA%B7%B9%EC%9E%A5_%ED%99%9C%ED%99%94%EC%82%B0_%EC%84%9C%EB%B8%8C%EB%B0%B0%EB%84%88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[기획초청] 미궁의 설계자]]></title>
+            <title><![CDATA[[기획초청] 미궁의 설계자(2023)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257236</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257236</guid>
             <pubDate>Thu, 28 Nov 2024 21:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">[기획초청] 미궁의 설계자</p>
+            <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">[기획초청] 미궁의 설계자(2023)</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">90분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
                                 <p class="prd_etc_info ng-binding" data-ng-bind="item.Subject">연극집단 반</p>
